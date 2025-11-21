@@ -1,0 +1,7 @@
+{
+  "name": "Serene AI",
+  "description": "A commercial-grade, always-listening voice assistant for users with ADHD, focusing on privacy and executive function support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
